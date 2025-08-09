@@ -11,7 +11,7 @@
 //Noncult As we may have this on maps
 /obj/structure/cult/altar
 	name = "Altar"
-	desc = "A sacrifical altar, stained with long-dried blood. Any power it had is long gone."
+	desc = "A sacrificial altar, stained with long-dried blood. Any power it had is long gone."
 	icon_state = "altar"
 
 /obj/structure/cult/forge
@@ -136,7 +136,7 @@
 
 /obj/structure/cult/functional/altar
 	name = "altar"
-	desc = "A sacrifical altar, covered in fresh blood. The runes covering its sides glow with barely-restrained power."
+	desc = "A sacrificial altar, covered in fresh blood. The runes covering its sides glow with barely-restrained power."
 	icon_state = "altar"
 	max_integrity = 150 //Sturdy
 	death_message = "<span class='danger'>The altar breaks into splinters, releasing a cascade of spirits into the air!</span>"

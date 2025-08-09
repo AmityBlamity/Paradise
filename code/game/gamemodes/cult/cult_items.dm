@@ -234,7 +234,7 @@
 
 /obj/item/whetstone/cult
 	name = "eldritch whetstone"
-	desc = "A block of dark, cracked metal, criss-crossed by glowing lines of unholy power. The block can grant any blade a razor's edge, but is unlikely to survive imbuement."
+	desc = "A block of dark, cracked metal, crisscrossed by glowing lines of unholy power. The block can grant any blade a razor's edge, but is unlikely to survive imbuement."
 	icon_state = "cult_sharpener"
 	increment = 5
 	max = 40
