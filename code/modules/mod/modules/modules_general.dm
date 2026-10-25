@@ -178,7 +178,7 @@
 
 /obj/item/mod/module/jetpack/advanced
 	name = "MOD advanced ion jetpack module"
-	desc = "An improvement on the previous model of electric thrusters. This one achieves better efficency through \
+	desc = "An improvement on the previous model of electric thrusters. This one achieves better efficiency through \
 		mounting of more jets and a red paint applied on it."
 	icon_state = "jetpack_advanced"
 	overlay_state_inactive = "module_jetpackadv"
@@ -432,7 +432,7 @@
 
 /obj/item/mod/module/dna_lock/emp_shield
 	name = "MOD DN-MP shield lock"
-	desc = "This syndicate module is a combination EMP shield and DNA lock. Provides the best of both worlds, with the weakness of niether."
+	desc = "This syndicate module is a combination EMP shield and DNA lock. Provides the best of both worlds, with the weakness of neither."
 	origin_tech = "materials=6;bluespace=5;syndicate=3"
 	complexity = 3
 	use_power_cost = DEFAULT_CHARGE_DRAIN * 5

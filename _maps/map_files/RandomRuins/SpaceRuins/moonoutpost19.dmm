@@ -1108,7 +1108,7 @@
 	},
 /obj/effect/mapping_helpers/airlock/access/all/ruins/moonoutpost19,
 /obj/machinery/door/airlock/highsecurity{
-	name = "Specimen Containtment Zone"
+	name = "Specimen Containment Zone"
 	},
 /turf/simulated/floor/catwalk,
 /area/ruin/space/moonbase19)
@@ -1684,7 +1684,7 @@
 /obj/machinery/door_control{
 	pixel_x = -7;
 	id = "awayscilock";
-	name = "reseach division lockdown"
+	name = "research division lockdown"
 	},
 /turf/simulated/floor/plasteel/dark,
 /area/ruin/space/moonbase19)
@@ -7217,7 +7217,7 @@
 	},
 /obj/effect/mapping_helpers/airlock/access/all/ruins/moonoutpost19,
 /obj/machinery/door/airlock/highsecurity{
-	name = "Specimen Containtment Zone"
+	name = "Specimen Containment Zone"
 	},
 /turf/simulated/floor/catwalk,
 /area/ruin/space/moonbase19)
@@ -12022,7 +12022,7 @@
 	},
 /obj/effect/decal/cleanable/dirt,
 /obj/machinery/camera{
-	c_tag = "East Containtment Zone";
+	c_tag = "East Containment Zone";
 	dir = 9;
 	network = list("MO19")
 	},
